@@ -1,3 +1,6 @@
+# Movies rentals Website
+This project is website to rent movies
+
 **********Cinemaik***********
 
 *To log in as an Admin use:
